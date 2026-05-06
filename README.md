@@ -70,7 +70,6 @@ Nithin = {
 
 ## 🏆 Achievements
 
-|---|---|---|
 | 📜 | **IIT Indore Certified** | 16-month applied DS & AI program — ML, DL, GenAI, Statistics |
 | 🎓 | **Python Certified — Intellipaat** | Data structures, Pandas/NumPy, applied programming |
 
