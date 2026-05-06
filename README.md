@@ -18,17 +18,17 @@
 ## 👨‍💻 About Me
 
 ```python
-nithin = {
-    "name"        : "Nithin K",
-    "location"    : "Bangalore, India 🇮🇳",
-    "education"   : "BE Computer Science — Bangalore Technological Institute (2022–2026)",
-    "certification": "Data Science & AI — IIT Indore via Intellipaat (16 months)",
-    "experience"  : [
+Nithin = {
+    "Name"        : "Nithin K",
+    "Location"    : "Bangalore, India 🇮🇳",
+    "Education"   : "BE Computer Science — Bangalore Technological Institute (2022–2026)",
+    "Certification": "Data Science & AI — IIT Indore via Intellipaat (16 months)",
+    "Experience"  : [
         "Data Scientist Intern @ Intellipaat (6 months)",
         "AI & Android App Dev Intern @ MindMatrix (15 weeks)"
     ],
-    "seeking"     : ["AI Engineer", "Data Scientist", "Software Engineer"],
-    "superpower"  : "Taking a problem from raw data → working product"
+    "Seeking"     : ["AI Engineer", "Data Scientist", "Software Engineer"],
+    "Superpower"  : "Taking a problem from raw data → working product"
 }
 ```
 
@@ -70,11 +70,9 @@ nithin = {
 
 ## 🏆 Achievements
 
-| 🥉 | **3rd Place — BTI Hackathon Fest** | Analysed hospital dataset in Python, identified actionable healthcare trends |
 |---|---|---|
 | 📜 | **IIT Indore Certified** | 16-month applied DS & AI program — ML, DL, GenAI, Statistics |
 | 🎓 | **Python Certified — Intellipaat** | Data structures, Pandas/NumPy, applied programming |
-| 🤝 | **Campus Ambassador — Naukri** | Platform outreach & peer engagement leadership |
 
 ---
 
@@ -101,7 +99,7 @@ nithin = {
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nithin-k-03795438a)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nithin69-k)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:scam2024r@gmail.com)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nithingowda490@gmail.com)
 
 **Open to AI Engineer · Data Scientist · Software Engineer roles**
 
