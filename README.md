@@ -16,9 +16,10 @@
 ---
 
 ## 👨‍💻 About Me
----python
 
-   Nithin = { "Name"        : "Nithin K",
+```python
+Nithin = {
+    "Name"        : "Nithin K",
     "Location"    : "Bangalore, India 🇮🇳",
     "Education"   : "BE Computer Science — Bangalore Technological Institute (2022–2026)",
     "Certification": "Data Science & AI — IIT Indore via Intellipaat (16 months)",
@@ -108,4 +109,3 @@
 <div align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&color=2563EB&height=100&section=footer" width="100%"/>
 </div>
-
