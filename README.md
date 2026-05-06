@@ -17,8 +17,7 @@
 
 ## 👨‍💻 About Me
 
-```python
-Nithin = {
+
     "Name"        : "Nithin K",
     "Location"    : "Bangalore, India 🇮🇳",
     "Education"   : "BE Computer Science — Bangalore Technological Institute (2022–2026)",
@@ -27,7 +26,7 @@ Nithin = {
                     "AI & Android App Dev Intern @ MindMatrix (15 weeks)"  ],
     "Seeking"     : ["AI Engineer", "Data Scientist", "Software Engineer"],
     "Superpower"  : "Taking a problem from raw data → working product"
-}
+
 ```
 
 ---
